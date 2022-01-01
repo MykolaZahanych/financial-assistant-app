@@ -1,0 +1,17 @@
+{
+  "name": "financial-assistant-app",
+  "version": "1.0.0",
+  "description": "An application that will help you manage your finances. Track expenses and income, set financial goals, track investments and exchange rates, and much more!",
+  "main": "server.js",
+  "scripts": {
+    "server": "nodemon server.js"
+  },
+  "author": "Mykola Zahanych",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
